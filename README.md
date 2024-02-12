@@ -1,7 +1,6 @@
 # FLSUN-SR-Klipper
 Flsun SR Klipper with Raspberry Pi
 
-
 ```mermaid
 graph LR
 A[Klipper calibration] 
@@ -16,7 +15,6 @@ A[Klipper calibration]
 X -- 7a --> W([PID Hotend]
 W -- 7b --> Z([PID Hotend]
 D --3a --> M(Security Offset)
-
 ```
 
 # 1. End stop calibration
