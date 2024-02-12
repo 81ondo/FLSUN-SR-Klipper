@@ -14,7 +14,7 @@ A[Klipper calibration]
 -- 7 --> I((Flow))
 -- 8 --> L((Pressure advance))
 X -- 7a --> W((PID Hotend))
- -- 7a --> Z((PID Hotend))
+W -- 7a --> Z((PID Hotend))
 D --3a --> M(Security Offset)
 
 ```
